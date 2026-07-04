@@ -4,4 +4,4 @@ This project's original code is a part of my diploma project that I'm working on
 
 Video demonstration from official university Youtube (Language - Ukrainian)
 
-[![Demo Video](preview.png)](https://www.youtube.com/watch?v=jvzMNxnVNqo)
+[![Demo Video](preview.png)](https://www.youtube.com/watch?v=jvzMNxnVNqo) 
