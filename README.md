@@ -2,6 +2,6 @@
 
 This project's original code is a part of my diploma project that I'm working on improving.
 
-Video demonstration from official university Youtube:
+Video demonstration from official university Youtube (Language - Ukrainian)
 
-``<iframe width="560" height="315" src="https://www.youtube.com/embed/video-id](https://youtu.be/jvzMNxnVNqo?si=GH3xdJ5nebCqduIy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>``
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/jvzMNxnVNqo?si=Oa2_vZZHQulUCriR)
